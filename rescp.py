@@ -47,6 +47,7 @@ for item in fd:
         
     x.append(det)
 
+    
 import pandas
 df=pandas.DataFrame(x)
 
